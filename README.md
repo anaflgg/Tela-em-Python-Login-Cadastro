@@ -10,14 +10,21 @@ Projeto simples feito em Python para treinar programação com interface gráfic
 - Testes automatizados com unittest
 
 📂 Imagens do projeto
-Tela de Login
-![Tela de Login](assets/teladelogin.png)
 
-Tela de Cadastro
-![Tela de Cadastro](assets/teladecadastro.png)
+## Tela de Login  
+![Tela de Login](assets/teladelogin.png)  
 
-Mensagem de Erro
-![Mensagem de Erro](assets/error.png)
+---
 
-Mensagem de Sucesso
-![Mensagem de Sucesso](assets/sucesso.png)
+## Tela de Cadastro  
+![Tela de Cadastro](assets/teladecadastro.png)  
+
+---
+
+## Mensagem de Erro  
+![Mensagem de Erro](assets/error.png)  
+
+---
+
+## Mensagem de Sucesso  
+![Mensagem de Sucesso](assets/sucesso.png)  
